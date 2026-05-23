@@ -13,7 +13,6 @@ A mid-size consumer lending company is experiencing a default rate well above it
 
 ## Tech Stack
 - Python (Pandas, NumPy, Matplotlib)
-- SQL
 
 ## Key Findings
 - Portfolio default rate significantly exceeds the 12% target
